@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_68wshizj3ey" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Instructor led Game</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Instructor_led_Game_ORG">
+    <organization identifier="Instructor_led_Game_ORG">
+      <title>Instructor led Game</title>
+      <item identifier="Storyline_design_standards_SCO" isvisible="true" identifierref="__68wshizj3ey_RES">
+        <title>Instructor led Game</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__68wshizj3ey_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Kv6QA4AGVZ_P_374_0_1284_1355.png" />
+      <file href="mobile/5n2ENBSpu5f.png" />
+      <file href="mobile/5ln2dYZCtyp.png" />
+      <file href="mobile/63czqes0YMe.png" />
+      <file href="mobile/5xzf2Nt9PXu_M_364_364.png" />
+      <file href="mobile/5kya9B1XBSc_M_364_364.png" />
+      <file href="mobile/5UpyL7boi96_M_364_364.png" />
+      <file href="mobile/5mDIe98iYaA.png" />
+      <file href="story_content/6KusCJ0k3g8_44100_48_0.mp3" />
+      <file href="story_content/6hpOfjXrRNO_captions.js" />
+      <file href="mobile/5zZKTqGF8Uc.png" />
+      <file href="story_content/6XfdhD56XPQ_44100_48_0.mp3" />
+      <file href="story_content/61MjpiDP6Gj_captions.js" />
+      <file href="story_content/6N8ushXiccE_captions.js" />
+      <file href="story_content/5tpX9wLqkuk_captions.js" />
+      <file href="story_content/5cKTEoYiu8z_captions.js" />
+      <file href="story_content/6kP2isWjlet_captions.js" />
+      <file href="story_content/6KmGbbkC2tg_captions.js" />
+      <file href="story_content/6qVMkZkG8aS_captions.js" />
+      <file href="story_content/63hXMWrZUCG_captions.js" />
+      <file href="story_content/62uXQpuAY3p_captions.js" />
+      <file href="story_content/63sOcZkJ7vg_captions.js" />
+      <file href="story_content/6B2krYJiItX_captions.js" />
+      <file href="story_content/6PKfxCRR9HL_captions.js" />
+      <file href="story_content/6UQDWfHneUe_captions.js" />
+      <file href="story_content/6Aemd8yvVni_captions.js" />
+      <file href="story_content/6764R4GpeCW_captions.js" />
+      <file href="story_content/6Z9zKJfKlsJ_captions.js" />
+      <file href="story_content/5eYUT3by2qu_captions.js" />
+      <file href="story_content/6JQYonIvXbn_captions.js" />
+      <file href="story_content/6j1JVyDQs9R_captions.js" />
+      <file href="story_content/6Ean0hd5rUG_captions.js" />
+      <file href="story_content/64Fwf1A3IRe_captions.js" />
+      <file href="story_content/61sFmWSzIpI_captions.js" />
+      <file href="story_content/60N3y0PZr8d_captions.js" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jiApetcXHv.js" />
+      <file href="html5/data/js/5smMXyKOjKu.js" />
+      <file href="html5/data/js/5VAEjMpXmVV.js" />
+      <file href="html5/data/js/5vurjpt13om.js" />
+      <file href="html5/data/js/5XlqbRtwzlt.js" />
+      <file href="html5/data/js/5yPH4NhVMa8.js" />
+      <file href="html5/data/js/5ZThY7QsqsU.js" />
+      <file href="html5/data/js/61gBAme512m.js" />
+      <file href="html5/data/js/62McXxtCAZ4.js" />
+      <file href="html5/data/js/671gSYwimLd.js" />
+      <file href="html5/data/js/6bxRZPZsEAf.js" />
+      <file href="html5/data/js/6bZfoKlpjd6.js" />
+      <file href="html5/data/js/6d8kHdOF2z9.js" />
+      <file href="html5/data/js/6DanInNaCjR.js" />
+      <file href="html5/data/js/6dMf8sEWLjd.js" />
+      <file href="html5/data/js/6DVD2GNVGNw.js" />
+      <file href="html5/data/js/6EkaaVwqqjL.js" />
+      <file href="html5/data/js/6FMOoUMToCC.js" />
+      <file href="html5/data/js/6HUS3FVOzJy.js" />
+      <file href="html5/data/js/6JXMETtudTp.js" />
+      <file href="html5/data/js/6KIb72lcbdL.js" />
+      <file href="html5/data/js/6LJ8ps3uJ9s.js" />
+      <file href="html5/data/js/6lPCDrB3Vx3.js" />
+      <file href="html5/data/js/6mGyEA4gXo9.js" />
+      <file href="html5/data/js/6NqTqyMvVeR.js" />
+      <file href="html5/data/js/6nYlpVwQy5Z.js" />
+      <file href="html5/data/js/6o77MDDPH9t.js" />
+      <file href="html5/data/js/6oCinY47uOA.js" />
+      <file href="html5/data/js/6p7m6p9wm4X.js" />
+      <file href="html5/data/js/6Pe4dh5mKyX.js" />
+      <file href="html5/data/js/6T0uvXKgw14.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
