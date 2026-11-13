@@ -1,69 +1,32 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_68wshizj3ey" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_68wshizj3ey" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
-    <schemaversion>1.2</schemaversion>
-    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
-      <general>
-        <title>
-          <langstring xml:lang="x-none">Instructor led Game</langstring>
-        </title>
-      </general>
-      <lifecycle>
-        <version>
-          <langstring xml:lang="x-none">1</langstring>
-        </version>
-        <status>
-          <source>
-            <langstring xml:lang="x-none">LOMv1.0</langstring>
-          </source>
-          <value>
-            <langstring xml:lang="x-none">Final</langstring>
-          </value>
-        </status>
-      </lifecycle>
-      <metametadata>
-        <metadatascheme>ADL SCORM 1.2</metadatascheme>
-      </metametadata>
-      <educational>
-        <typicallearningtime>
-          <datetime>PT0H0M0S</datetime>
-        </typicallearningtime>
-      </educational>
-      <rights>
-        <cost>
-          <source>
-            <langstring xml:lang="x-none">LOMv1.0</langstring>
-          </source>
-          <value>
-            <langstring xml:lang="x-none">yes</langstring>
-          </value>
-        </cost>
-        <copyrightandotherrestrictions>
-          <source>
-            <langstring xml:lang="x-none">LOMv1.0</langstring>
-          </source>
-          <value>
-            <langstring xml:lang="x-none">yes</langstring>
-          </value>
-        </copyrightandotherrestrictions>
-      </rights>
-    </lom>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
   </metadata>
-  <organizations default="Instructor_led_Game_ORG">
-    <organization identifier="Instructor_led_Game_ORG">
-      <title>Instructor led Game</title>
-      <item identifier="Storyline_design_standards_SCO" isvisible="true" identifierref="__68wshizj3ey_RES">
-        <title>Instructor led Game</title>
+  <organizations default="Instructor_led_Game1_ORG">
+    <organization identifier="Instructor_led_Game1_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Instructor led Game1</title>
+      <item identifier="Storyline_design_standards_SCO" identifierref="__68wshizj3ey_RES" isvisible="true">
+        <title>Instructor led Game1</title>
       </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__68wshizj3ey_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__68wshizj3ey_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
       <file href="story_content/thumbnail.jpg" />
-      <file href="mobile/6Kv6QA4AGVZ_P_374_0_1284_1355.png" />
-      <file href="mobile/5n2ENBSpu5f.png" />
-      <file href="mobile/5ln2dYZCtyp.png" />
       <file href="mobile/63czqes0YMe.png" />
       <file href="mobile/5xzf2Nt9PXu_M_364_364.png" />
       <file href="mobile/5kya9B1XBSc_M_364_364.png" />
@@ -80,6 +43,7 @@
       <file href="story_content/6kP2isWjlet_captions.js" />
       <file href="story_content/6KmGbbkC2tg_captions.js" />
       <file href="story_content/6qVMkZkG8aS_captions.js" />
+      <file href="mobile/5ln2dYZCtyp.png" />
       <file href="story_content/63hXMWrZUCG_captions.js" />
       <file href="story_content/62uXQpuAY3p_captions.js" />
       <file href="story_content/63sOcZkJ7vg_captions.js" />
@@ -108,7 +72,6 @@
       <file href="html5/data/js/5yPH4NhVMa8.js" />
       <file href="html5/data/js/5ZThY7QsqsU.js" />
       <file href="html5/data/js/61gBAme512m.js" />
-      <file href="html5/data/js/62McXxtCAZ4.js" />
       <file href="html5/data/js/671gSYwimLd.js" />
       <file href="html5/data/js/6bxRZPZsEAf.js" />
       <file href="html5/data/js/6bZfoKlpjd6.js" />
@@ -117,7 +80,6 @@
       <file href="html5/data/js/6dMf8sEWLjd.js" />
       <file href="html5/data/js/6DVD2GNVGNw.js" />
       <file href="html5/data/js/6EkaaVwqqjL.js" />
-      <file href="html5/data/js/6FMOoUMToCC.js" />
       <file href="html5/data/js/6HUS3FVOzJy.js" />
       <file href="html5/data/js/6JXMETtudTp.js" />
       <file href="html5/data/js/6KIb72lcbdL.js" />
@@ -128,7 +90,6 @@
       <file href="html5/data/js/6nYlpVwQy5Z.js" />
       <file href="html5/data/js/6o77MDDPH9t.js" />
       <file href="html5/data/js/6oCinY47uOA.js" />
-      <file href="html5/data/js/6p7m6p9wm4X.js" />
       <file href="html5/data/js/6Pe4dh5mKyX.js" />
       <file href="html5/data/js/6T0uvXKgw14.js" />
       <file href="html5/data/js/data.js" />

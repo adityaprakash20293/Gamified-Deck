@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns11111000111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="125" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x009BDB">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns01011100111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="125" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" preventUpscale="true" outputtype="undefined" theme="unified" themeAccentColor="0x009BDB">
   <layouts>
-    <layout name="npnxnanbsnfns11111000111" font="Mulish" controllayout="npnxnanbsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
-    <layout name="pxabnsnfns11111000111" font="Mulish" controllayout="pxabnsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
-    <layout name="npxnabnsnfns11111000111" font="Mulish" controllayout="npxnabnsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
-    <layout name="npnxnanbnsnfns11111000111" font="Mulish" controllayout="npnxnanbnsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
-    <layout name="pxabnsnfns11111000110" font="Mulish" controllayout="pxabnsnfns11111000110" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
-    <layout name="pxabnsnfns01011100111" font="Mulish" controllayout="pxabnsnfns01011100111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
+    <layout name="npnxnanbsnfns11111000111" font="Mulish" controllayout="npnxnanbsnfns11111000111" colorscheme="pxabnsnfns01011100111" string_table="pxabnsnfns01011100111" />
+    <layout name="pxabnsnfns11111000111" font="Mulish" controllayout="pxabnsnfns11111000111" colorscheme="pxabnsnfns01011100111" string_table="pxabnsnfns01011100111" />
+    <layout name="npxnabnsnfns11111000111" font="Mulish" controllayout="npxnabnsnfns11111000111" colorscheme="pxabnsnfns01011100111" string_table="pxabnsnfns01011100111" />
+    <layout name="npnxnanbnsnfns11111000111" font="Mulish" controllayout="npnxnanbnsnfns11111000111" colorscheme="pxabnsnfns01011100111" string_table="pxabnsnfns01011100111" />
+    <layout name="pxabnsnfns11111000110" font="Mulish" controllayout="pxabnsnfns11111000110" colorscheme="pxabnsnfns01011100111" string_table="pxabnsnfns01011100111" />
+    <layout name="pxabnsnfns01011100111" font="Mulish" controllayout="pxabnsnfns01011100111" colorscheme="pxabnsnfns01011100111" string_table="pxabnsnfns01011100111" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Instructor led Game" />
+              <option name="title_text" value="Instructor led Game1" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -258,7 +258,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns11111000111">
+    <colorscheme name="pxabnsnfns01011100111">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -1435,7 +1435,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns11111000111">
+    <string_table name="pxabnsnfns01011100111">
       <string id="acc_active">active</string>
       <string id="acc_cc_hide">Hide captions (Ctrl+Alt+C)</string>
       <string id="acc_cc_show">Show captions (Ctrl+Alt+C)</string>
@@ -1647,8 +1647,8 @@
     </font>
     <font name="Arial">
       <files>
-        <file bold="false" italic="false" />
         <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
       </files>
     </font>
   </fonts>
@@ -1658,9 +1658,6 @@
       <links>
         <slidelink slideid="_player.5kpXLUBJHDw" displaytext="Benefits: Loss of earnings" expand="true" type="slide" translationId="6QGV6FExplm">
           <links>
-            <slidelink slideid="_player.5kpXLUBJHDw.62McXxtCAZ4" displaytext="Topic Name" expand="false" type="slide" translationId="5nO0jhCxy1t" />
-            <slidelink slideid="_player.5kpXLUBJHDw.6FMOoUMToCC" displaytext="Learning objectives" expand="false" type="slide" translationId="5Z2O7zRqvq8" />
-            <slidelink slideid="_player.5kpXLUBJHDw.6p7m6p9wm4X" displaytext="Process" expand="false" type="slide" translationId="6EgAnnw2icS" />
             <slidelink slideid="_player.5kpXLUBJHDw.6bxRZPZsEAf" displaytext="Team trivia game" expand="false" type="slide" translationId="6nhsiBEyABK" />
             <slidelink slideid="_player.5kpXLUBJHDw.6mGyEA4gXo9" displaytext="Game card" expand="false" type="slide" translationId="6bmtH5McHUy" />
             <slidelink slideid="_player.5kpXLUBJHDw.6HUS3FVOzJy" displaytext="101Q1R1" expand="false" type="slide" translationId="6ay0JkABW0A" />
@@ -1694,9 +1691,6 @@
       </links>
     </outline>
     <search>
-      <slidetext slideid="5kpXLUBJHDw.62McXxtCAZ4" slidebank="false" type="slide">topic name subtopic</slidetext>
-      <slidetext slideid="5kpXLUBJHDw.6FMOoUMToCC" slidebank="false" type="slide">learning objectives  lo1 lo2 lo3</slidetext>
-      <slidetext slideid="5kpXLUBJHDw.6p7m6p9wm4X" slidebank="false" type="slide">process </slidetext>
       <slidetext slideid="5kpXLUBJHDw.6bxRZPZsEAf" slidebank="false" type="slide">game instructions: divide participants into three groups: team a, team b, and team c. provide each team with a buzzer. note: if you are playing by yourself, act as team a and record your score under team  the game follows a format similar to jeopardy. the team that buzzes in first will have the opportunity to answer the question. within each team, members will take turns answering questions. decide ahead of time if teammates are allowed to assist each other. teams earn points for correct answers and lose points for incorrect responses. click 'begin' to start. make sure to select the reset buttons for all teams to set their scores to zero before commencing play. there are four rounds in the game, and each round features questions with different dollar values. click on the cards to access the questions. update the score for each team on the answer slide based on their correct or incorrect responses.  back back back back back back game: loss of earnings begin game begin game begin game begin game begin game begin game view instructions view instructions view instructions view instructions view instructions view instructions</slidetext>
       <slidetext slideid="5kpXLUBJHDw.6mGyEA4gXo9" slidebank="false" type="slide">game card round 1 $100 $100 $100 $200 $200 $200 $400 $400 $400 $800 $800 $800 round 2 $100 $100 $100 $200 $200 $200 $400 $400 $400 round 3 $100 $100 $100 $200 $200 $200 $400 $400 $400 round 4 $100 $100 $100 $100 $100 $100 reset reset reset complete</slidetext>
       <slidetext slideid="5kpXLUBJHDw.6HUS3FVOzJy" slidebank="false" type="slide">$100 question 1, round 1 question option1 option2 option3 option4</slidetext>
@@ -1730,81 +1724,7 @@
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Mulish' style='font-size: 11px;' size='11' color='#BABBBA'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
   <transcript_data>
     <slidetranscripts>
-      <slidetranscript slideid="5kpXLUBJHDw.6p7m6p9wm4X" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="1" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Facilitation notes&amp;#xA;"&gt;
-        &lt;Style FontFamily="+minor" FontSize="15" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="1" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="High level recap of the adjudicative process and identifying where in the process we will currently be looking at.&amp;#xA;"&gt;
-        &lt;Style FontFamily="+minor" FontSize="15" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="1" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="&amp;#xA;"&gt;
-        &lt;Style FontFamily="+minor" FontSize="15" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Plain" Start="1" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Key points&amp;#xA;"&gt;
-        &lt;Style FontFamily="+minor" FontSize="15" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="22" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="Bullet" ListTypeFormat="Plain" Start="1" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Most if not all learners in the program already have a high level of understanding and application of the loss of earnings decision-making process and administrative tasks.&amp;#xA;"&gt;
-        &lt;Style FontFamily="+minor" FontSize="15" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="22" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="Bullet" ListTypeFormat="Plain" Start="1" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="We’re going to test that knowledge by splitting up the group into three teams for a multiple-choice game. We’ll be keeping track of points.&amp;#xA;"&gt;
-        &lt;Style FontFamily="+minor" FontSize="15" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="22" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="Bullet" ListTypeFormat="Plain" Start="1" Color="#000000" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="The questions are designed to not only refresh your knowledge on the loss of earnings decision-making process, but to also introduce more nuanced elements to LOE benefits in the OD acute/chronic entitlement stream"&gt;
-        &lt;Style FontFamily="+minor" FontSize="15" FontIsBold="False" ForegroundColor="lt1,00" LinkColor="lt1,00" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5kpXLUBJHDw.6bxRZPZsEAf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+      <slidetranscript slideid="5kpXLUBJHDw.6bxRZPZsEAf" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style LeadingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
